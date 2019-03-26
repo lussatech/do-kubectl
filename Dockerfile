@@ -25,5 +25,5 @@ RUN curl -L https://github.com/digitalocean/doctl/releases/download/v${DOCTL_VER
 RUN apk del --purge deps \
   && rm /var/cache/apk/*
 
-ENTRYPOINT ["/bin/sh"]
-CMD ["-c"]
+ENTRYPOINT ["/bin/sh", "-c"]
+CMD ["kubectl", "help"]
