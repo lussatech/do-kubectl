@@ -1,5 +1,4 @@
 # DO-Kubectl
----
 
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/image-size/lussatech/do-kubectl.svg)
 
