@@ -1,6 +1,6 @@
 FROM alpine:3.9
 
-ENV KUBE_LATEST_VERSION="v1.3.5"
+ENV KUBE_LATEST_VERSION="v1.13.4"
 ENV DOCTL_VERSION="1.14.0"
 
 # initiate workdir
