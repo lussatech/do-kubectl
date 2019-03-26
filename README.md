@@ -1,8 +1,8 @@
 # DO-Kubectl
 
-![MicroBadger Size](https://img.shields.io/microbadger/image-size/image-size/lussatech/do-kubectl.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/lussatech/do-kubectl.svg)
 
-Is a enviroments for deploy container on kubernetes cluster in digital ocean environments
+Is an enviroments for deploy container on digitalocean kubernetes cluster
 
 ## Build
 
